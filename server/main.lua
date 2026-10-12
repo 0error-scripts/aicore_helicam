@@ -1,4 +1,4 @@
-lib.versionCheck('0error-scripts/aicore_helicam')
+lib.versionCheck('aicore-fivem/aicore_helicam')
 
 RegisterNetEvent('aicore_helicam:server:toggleSpotlightState', function(netId)
     local vehicle = NetworkGetEntityFromNetworkId(netId)

@@ -3,7 +3,7 @@ game 'gta5'
 
 name 'aicore_helicam'
 description 'Helicopter camera resource for Aicore'
-repository 'https://github.com/0error-scripts/aicore_helicam'
+repository 'https://github.com/aicore-fivem/aicore_helicam'
 version '1.0.0'
 
 ox_lib 'locale'
